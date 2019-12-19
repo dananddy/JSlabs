@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/dananddy/JSlabs#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "tedious": "^6.6.2"
   },
   "devDependencies": {
     "eslint": "^6.7.2",
@@ -29,6 +30,6 @@
     "mocha": "^6.2.2",
     "prettier": "^1.19.1"
   },
-  "precommit":"npm run prettier",
-  "prepush":"call npm run lint && call npm run test"
+  "precommit": "npm run prettier",
+  "prepush": "call npm run lint && call npm run test"
 }
