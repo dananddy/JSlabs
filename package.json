@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "labsJS",
+  "main": "JS_Labs.html",
+  "scripts": {
+    "start": "JS_Labs.html",
+    "test": "test.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dananddy/JSlabs.git"
+  },
+  "keywords": [
+    "lab"
+  ],
+  "author": "Dan Anddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dananddy/JSlabs/issues"
+  },
+  "homepage": "https://github.com/dananddy/JSlabs#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "mocha": "^6.2.2"
+  }
+}
