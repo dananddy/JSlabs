@@ -4,7 +4,7 @@
   "description": "labsJS",
   "main": "JS_Labs.html",
   "scripts": {
-    "start": "JS_Labs.html",
+    "start": "index.html",
     "test": "test.html"
   },
   "repository": {
