@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/dananddy/JSlabs#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "tedious": "^6.6.2"
   },
   "devDependencies": {
